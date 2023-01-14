@@ -42,5 +42,5 @@ class ItemList:
   def get_all_cases(self):
     print(*self.dela)
 
-v = ItemList(("zasxzas", "ddd","ghgh"))
+v = ItemList(("fsxzas", "ddd","ghgh"))
 v.get_all_cases()
